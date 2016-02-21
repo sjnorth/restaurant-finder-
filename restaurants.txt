@@ -1,0 +1,11 @@
+Pera Palace	Turkish	100
+Marmara Park	Ottoman	50
+Think Coffee	Coffee and cake	5
+Kronotrop	Artisanal coffee	7
+Masala Times	Indian	12
+Saigon Shack	Vietnamese	9
+Safari	Somalian	10
+Thelewalla	Indian	5
+Ataturk's Big Fat Food Emporium	Turkish	25
+brookside tearoom	english high tea	30
+Best Fish	Seafood	17
